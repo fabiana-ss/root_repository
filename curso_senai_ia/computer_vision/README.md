@@ -1,4 +1,5 @@
 # Prática 01: Pré-processamento e Limiarização de Imagens Industrial
+
 **Estudante:** Fabiana S.S
 **Curso:** Inteligência Artificial / Visão Computacional - SENAI  
 **Data:** Maio de 2026
