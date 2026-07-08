@@ -37,7 +37,7 @@ Ao analisar o painel comparativo gerado pelos subplots, as seguintes conclusões
 * **Limitações Encontradas:** Variações extremas de iluminação (como reflexos diretos no metal do componente ou sombras projetadas) ainda representam um desafio, pois alteram o valor dos pixels fazendo com que partes do objeto sejam interpretadas como fundo (falsos negativos). Como melhoria futura, sugere-se o teste de algoritmos de **Limiarização Adaptativa**, que calculam limiares diferentes para cada região da imagem.
  --- 
 # Desafio 01 - SA: Detecção e Classificação de Objetos com OpenCV
-**Estudante:** Fabiana dos Santos da Silva  
+**Estudante:** Fabiana S.S  
 **Curso:** Inteligência Artificial / Visão Computacional - SENAI  
 **Data:** Junho de 2026
 
