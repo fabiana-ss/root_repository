@@ -1,0 +1,43 @@
+```json
+{
+  "relatorio_aderencia": {
+    "compatibilidade_estimada_porcentagem": 85,
+    "hard_skills_encontradas": [
+      "Python",
+      "Django (Desenvolvimento de APIs REST)",
+      "PostgreSQL (Modelagem SQL)",
+      "Docker (Conhecimento teórico)"
+    ],
+    "soft_skills_encontradas": [],
+    "lacunas_identificadas": [
+      "Metodologias Ágeis (Não citado no documento original)",
+      "Experiência prática comprovada com Docker (Apenas conceitual)"
+    ]
+  },
+  "curriculo_adaptado": {
+    "nome_candidato": "Carlos Silva",
+    "dados_contato": "Extraído conforme PDF original",
+    "resumo_profissional": "Desenvolvedor Backend com 3 anos de experiência especializada na linguagem Python e ecossistema Django. Histórico focado no desenvolvimento de APIs REST e manipulação de bancos de dados relacionais PostgreSQL, apresentando alinhamento com arquitetura de containers utilizando Docker.",
+    "competencias_tecnicas": [
+      "Python / Django",
+      "APIs RESTful",
+      "Banco de Dados SQL (PostgreSQL)",
+      "Containers (Docker - Nível Teórico)"
+    ],
+    "experiencia_profissional": [
+      {
+        "cargo": "Desenvolvedor Backend",
+        "empresa": "Empresa Extraída do PDF",
+        "periodo": "Período Extraído do PDF",
+        "conquistas_e_atividades": [
+          "Desenvolvimento backend utilizando Python focado na construção de APIs REST estruturadas.",
+          "Manipulação e modelagem de dados utilizando banco de dados SQL (PostgreSQL)."
+        ]
+      }
+    ],
+    "educacao_e_certificacoes": [
+      "Dados de formação acadêmica mantidos integralmente conforme documento original"
+    ]
+  }
+}
+```
