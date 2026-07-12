@@ -1,0 +1,71 @@
+{
+  "relatorio_aderencia": {
+    "compatibilidade_estimada_porcentagem": 45,
+    "hard_skills_encontradas": [
+      "Arquitetura de Nuvem (AWS, GCP)",
+      "Liderança Técnica de Equipes Multidisciplinares",
+      "Tradução de Requisitos de Negócio em Soluções Técnicas"
+    ],
+    "soft_skills_encontradas": [
+      "Comunicação assertiva (ponte entre técnico e negócios)",
+      "Pensamento analítico",
+      "Mentoria e desenvolvimento de pessoas"
+    ],
+    "lacunas_identificadas": [
+      "Ausência de experiência com Governança de TI (ITIL, COBIT)",
+      "Falta de vivência em Gestão de Orçamento (Capex/Opex) e Gestão de Fornecedores de TI",
+      "Ausência de experiência com Segurança da Informação tradicional, DRP e conformidade LGPD",
+      "Falta de experiência com migração de sistemas legados e implementação de ERP/CRM"
+    ]
+  },
+  "curriculo_adaptado": {
+    "nome_candidato": "Gabriel  Vasconcelos  de  Alonço  Cientista  de  Dados  Principal  &  Especialista  em  IA  Sênior  São  Paulo,  SP  |  +55  (11)  99999-0000  |  [EMAIL_1]  |  [LINK_PERFIL_1]",
+    "dados_contato": "Disponível sob consulta",
+    "resumo_profissional": "Cientista de Computação com mais de 8 anos de experiência em tecnologia, com sólida trajetória em liderança técnica de equipes multidisciplinares e implementação de soluções complexas em ambientes de nuvem (AWS e GCP). Experiência em traduzir necessidades de negócios em requisitos técnicos, otimizando processos e escalando a eficiência operacional de produtos digitais.",
+    "competencias_tecnicas": [
+      "Liderança Técnica e Mentoria",
+      "Arquitetura de Nuvem (AWS, Google Cloud Platform)",
+      "Infraestrutura como Código e MLOps (Docker, Kubernetes)",
+      "Engenharia de Software e Ciência de Dados",
+      "Bancos de Dados (SQL, NoSQL/MongoDB)",
+      "Metodologias de Desenvolvimento de Software"
+    ],
+    "experiencia_profissional": [
+      {
+        "cargo": "Especialista Sênior (Liderança Técnica)",
+        "empresa": "NeuralTech Solutions",
+        "periodo": "Janeiro de 2023 – Atual",
+        "conquistas_e_atividades": [
+          "Liderança técnica no desenvolvimento de ecossistema de tecnologia complexo, resultando em automação de 40% do atendimento ao cliente.",
+          "Modernização e otimização de infraestrutura em nuvem utilizando Docker e AWS (SageMaker), reduzindo drasticamente o tempo de implantação de novos sistemas.",
+          "Mentoria e capacitação de engenheiros juniores e plenos, promovendo melhores práticas de engenharia de software e colaboração."
+        ]
+      },
+      {
+        "cargo": "Engenheiro Pleno (Colaboração de Negócios)",
+        "empresa": "Cognitive Analytics",
+        "periodo": "Março de 2020 – Dezembro de 2022",
+        "conquistas_e_atividades": [
+          "Colaboração direta com gerentes de produto para traduzir necessidades de negócios em requisitos técnicos viáveis e eficientes.",
+          "Desenvolvimento e otimização de algoritmos de alta complexidade para detecção de fraudes, alcançando 98,4% de acurácia.",
+          "Criação de modelos preditivos focados na retenção de clientes e personalização para o setor de e-commerce."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados Júnior",
+        "empresa": "Inova Digital Lab",
+        "periodo": "Julho de 2018 – Fevereiro de 2020",
+        "conquistas_e_atividades": [
+          "Análise exploratória de dados e engenharia de recursos em grandes volumes de dados textuais.",
+          "Desenvolvimento de classificadores e ferramentas de automação para suporte interno."
+        ]
+      }
+    ],
+    "educacao_e_certificacoes": [
+      "Mestrado em Ciência da Computação - Universidade de São Paulo (USP) | 2019 – 2021",
+      "Bacharelado em Ciência da Computação - Universidade Federal de São Carlos (UFSCar) | 2014 – 2018",
+      "AWS Certified Machine Learning – Specialty (2024)",
+      "Deep Learning Specialization – DeepLearning.AI / Coursera (2022)"
+    ]
+  }
+}
