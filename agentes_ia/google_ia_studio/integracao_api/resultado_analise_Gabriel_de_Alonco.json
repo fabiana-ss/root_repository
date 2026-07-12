@@ -1,0 +1,74 @@
+{
+  "relatorio_aderencia": {
+    "compatibilidade_estimada_porcentagem": 65,
+    "hard_skills_encontradas": [
+      "Análise exploratória de dados",
+      "SQL",
+      "Integrações de IA (Especialista)",
+      "Python e R",
+      "Modelagem preditiva"
+    ],
+    "soft_skills_encontradas": [
+      "Liderança técnica",
+      "Mentoria de engenheiros",
+      "Colaboração multidisciplinar",
+      "Tradução de necessidades de negócios em requisitos técnicos"
+    ],
+    "lacunas_identificadas": [
+      "Ausência de experiência explícita com a ferramenta Power BI (requisito desejável)",
+      "Falta de menção direta a ferramentas tradicionais de Business Intelligence (BI) como Tableau ou Qlik",
+      "Falta de foco explícito em modelagem de dados multidimensional (Star Schema, Snowflake) e análise de indicadores de negócios (KPIs) tradicionais"
+    ]
+  },
+  "curriculo_adaptado": {
+    "nome_candidato": "Gabriel Vasconcelos de Alonço",
+    "dados_contato": "São Paulo, SP | +55 (11) 99999-0000 | gabriel.alonco@emailficticio.com | linkedin.com/in/gabriel-alonco-ficticio",
+    "resumo_profissional": "Cientista de Computação com mais de 8 anos de experiência no ciclo completo de dados, desde a análise exploratória e modelagem até a implantação de soluções complexas de Inteligência Artificial. Especialista em traduzir necessidades de negócios em soluções técnicas, com forte histórico em integrações de IA e manipulação de grandes volumes de dados para geração de insights operacionais e estratégicos.",
+    "competencias_tecnicas": [
+      "Análise Exploratória de Dados",
+      "Modelagem Preditiva",
+      "SQL e NoSQL (MongoDB)",
+      "Integrações de IA e IA Generativa",
+      "Python e R",
+      "AWS (SageMaker) e Google Cloud Platform (Vertex AI)",
+      "Engenharia de Recursos (Feature Engineering)"
+    ],
+    "experiencia_profissional": [
+      {
+        "cargo": "Especialista Sênior em Inteligência Artificial",
+        "empresa": "NeuralTech Solutions",
+        "periodo": "Janeiro de 2023 – Atual",
+        "conquistas_e_atividades": [
+          "Liderança técnica no desenvolvimento de ecossistema de IA generativa, aplicando integrações avançadas de IA para automação de 40% do atendimento ao cliente.",
+          "Implementação de pipelines de dados e MLOps robustos utilizando Docker e AWS SageMaker, otimizando o tempo de implantação de modelos.",
+          "Mentoria de engenheiros júniores e plenos, disseminando melhores práticas de engenharia de software e análise de dados."
+        ]
+      },
+      {
+        "cargo": "Engenheiro de Machine Learning Pleno",
+        "empresa": "Cognitive Analytics",
+        "periodo": "Março de 2020 – Dezembro de 2022",
+        "conquistas_e_atividades": [
+          "Criação de modelos preditivos de churn e sistemas de recomendação personalizados para e-commerce, baseando-se em análise de indicadores de comportamento do cliente.",
+          "Desenvolvimento e otimização de algoritmos de Visão Computacional para detecção de fraudes, alcançando 98,4% de acurácia.",
+          "Colaboração direta com gerentes de produto para traduzir necessidades de negócios e métricas operacionais em requisitos técnicos de dados."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados Júnior",
+        "empresa": "Inova Digital Lab",
+        "periodo": "Julho de 2018 – Fevereiro de 2020",
+        "conquistas_e_atividades": [
+          "Realização de análise exploratória de dados, limpeza e engenharia de recursos (feature engineering) em grandes volumes de dados para subsidiar tomadas de decisão.",
+          "Desenvolvimento de classificadores de sentimento e chatbots baseados em regras e NLP tradicional para otimização de suporte interno."
+        ]
+      }
+    ],
+    "educacao_e_certificacoes": [
+      "Mestrado em Ciência da Computação (Foco em Inteligência Artificial) - Universidade de São Paulo (USP) | 2019 – 2021",
+      "Bacharelado em Ciência da Computação - Universidade Federal de São Carlos (UFSCar) | 2014 – 2018",
+      "AWS Certified Machine Learning – Specialty (2024)",
+      "Deep Learning Specialization – DeepLearning.AI / Coursera (2022)"
+    ]
+  }
+}
